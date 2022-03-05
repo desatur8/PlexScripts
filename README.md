@@ -3,8 +3,12 @@
 The script consists of 3 files:
 
 * plex_config.py
+  ```This is where you will add your settings that the two scripts will use```
 * Unwatched.py
+  ```This is where you will add your settings that the two scripts will use```
 * Reruns.py
+  ```This is where you will add your settings that the two scripts will use```
+
 
 # plex_config.py
 This is where you will add your settings that the two scripts will use
