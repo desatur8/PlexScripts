@@ -2,11 +2,11 @@
 
 The script consists of 3 files:
 
-* plex_config.py
+* plex_config.py <br />
   ```This is where you will add your settings that the two scripts will use```
-* Unwatched.py
+* Unwatched.py <br />
   ```This is where you will add your settings that the two scripts will use```
-* Reruns.py
+* Reruns.py <br />
   ```This is where you will add your settings that the two scripts will use```
 
 
