@@ -5,9 +5,9 @@ The script consists of 3 files:
 * plex_config.py <br />
   ```This is where you will add your settings that the two scripts will use```
 * Unwatched.py <br />
-  ```This is where you will add your settings that the two scripts will use```
+  ```A script that will add first unwatched episode of a given plex collection to a playlist, and randomize the playlist```
 * Reruns.py <br />
-  ```This is where you will add your settings that the two scripts will use```
+  ```A script that will add previoulsy watched episodes of a given plex collection to a playlist, and randomize the playlist```
 
 
 # plex_config.py
