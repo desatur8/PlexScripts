@@ -9,8 +9,8 @@ The script consists of 3 files:
 # plex_config.py
 This is where you will add your settings that the two scripts will use
 
-PLEX_URL = ```url of your plex server```__
-PLEX_TOKEN = ```url of your plex server```__
+PLEX_URL = ```url of your plex server``` <br />
+PLEX_TOKEN = ```url of your plex server```<br />
 #Number of shows to add to your playlists
 NUMBER_OF_SHOWS = 5
 
