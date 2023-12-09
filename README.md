@@ -1,11 +1,13 @@
 # PlexScripts
 
-2 Scripts for creating advanced playlists in plex
 <br />
 * Unwatched.py <br />
   ```A script that will add first unwatched episode of a given plex collection to a playlist, and randomize the playlist```
 * Reruns.py <br />
   ```A script that will add previoulsy watched episodes of a given plex collection to a playlist, and randomize the playlist```
+* PlexEditDateAdded.py <br />
+  ```A script that change the date added attribute for a specific movie in your database, to remove from the recently added list```
+  
 
 # plex_config.py
 PLEX_URL = http://x.x.x.x:32400 ```url of your plex server``` <br />
