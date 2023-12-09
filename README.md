@@ -1,11 +1,11 @@
 # PlexScripts
 
-<br />
-* Unwatched.py <br />
+
+* Unwatched.py
   ```A script that will add first unwatched episode of a given plex collection to a playlist, and randomize the playlist```
-* Reruns.py <br />
+* Reruns.py 
   ```A script that will add previoulsy watched episodes of a given plex collection to a playlist, and randomize the playlist```
-* PlexEditDateAdded.py <br />
+* PlexEditDateAdded.py
   ```A script that change the date added attribute for a specific movie in your database, to remove from the recently added list```
   
 
